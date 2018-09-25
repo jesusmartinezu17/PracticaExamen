@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe.config
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.pdb
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.exe
+C:\Users\PC\Downloads\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.pdb
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe.config
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.pdb
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csprojResolveAssemblyReference.cache
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csproj.CoreCompileInputs.cache
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.exe
+C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.pdb
