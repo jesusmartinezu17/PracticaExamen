@@ -12,3 +12,10 @@ C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\ob
 C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csproj.CoreCompileInputs.cache
 C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.exe
 C:\Users\Jeshua\Desktop\PE.URRUTIA-20180923T181019Z-001\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.pdb
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe.config
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.exe
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\bin\Debug\PE.URRUTIA.pdb
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csprojResolveAssemblyReference.cache
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.csproj.CoreCompileInputs.cache
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.exe
+C:\Users\Jeshua\Documents\GitHub\PracticaExamen\PE.MARTINEZURRUTIA\PE.URRUTIA\PE.URRUTIA\obj\Debug\PE.URRUTIA.pdb

@@ -135,7 +135,7 @@ namespace PE.URRUTIA
                         Console.Clear();
                         Console.WriteLine("6.- Escriba un algoritmo que regrese el índice del primer elemento que es mayor que su predecesor en la sucesión s1, . . . , sn.");
                         Console.WriteLine("Cuántos nombres desea ingresar?");
-                        int valor6 = int.Parse(Console.ReadLine());
+                        int  valor6 = int.Parse(Console.ReadLine());
                         string[] valores6 = new string[valor6];
                         for (int n6 = 0; n6 < valor6; n6++)
                         {
@@ -178,6 +178,22 @@ namespace PE.URRUTIA
                     case 8:
                         Console.Clear();
                         Console.WriteLine("8.- Un palíndromo es una secuencia de caracteres que se lee igual de derecho y al reves.");
+                        int[] palindromo = new int[5];
+                        Random RND8 = new Random();
+                        for (int n8 = 0; n8 <palindromo.Length; n8++)
+                        {
+                            palindromo[n8] = RND8.Next(0, 9);
+                            Console.Write(palindromo[n8]);
+                        }
+
+                        if (palindromo[0]== palindromo[4] && palindromo[1] == palindromo[3] )
+                        {
+                            Console.WriteLine("\n Es un palindromo");
+                        }
+                        else
+                        {
+                            Console.WriteLine("\n No es un palindromo");
+                        }
                         break;
                     default:
                         Console.WriteLine("Opción no válida.");
